@@ -1,1 +1,2 @@
-python
+学习python
+python的脚本都放在此仓库中
